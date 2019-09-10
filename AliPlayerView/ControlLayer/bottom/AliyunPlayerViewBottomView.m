@@ -5,7 +5,7 @@
 
 #import "AliyunPlayerViewBottomView.h"
 #import "AliyunPrivateDefine.h"
-#import <SnapKit/SnapKit-Swift.h>
+//#import <SnapKit/SnapKit-Swift.h>
 static const CGFloat ALYPVBottomViewPlayButtonWidth         = 48;                         //播放按钮宽度
 static const CGFloat ALYPVBottonViewFullScreenTimeWidth     = 80 + 40;                    //全屏时间宽度
 static const CGFloat ALYPVBottomViewTextSizeFont            = 12.0f;                      //字体字号
